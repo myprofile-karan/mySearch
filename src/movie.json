@@ -1,0 +1,23 @@
+[
+    {
+    "id": 1,
+    "title": "HP Pavilion 15-DK1056WM",
+    "images": "https://i.dummyjson.com/data/products/10/1.jpg"
+  },
+
+  {
+    "id": 2,
+    "title": "perfume Oil",
+    "images": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Infinix INBOOK",
+    "images": "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "title": "perfume Oil",
+    "images":"https://i.dummyjson.com/data/products/11/1.jpg"
+  }
+]
